@@ -1,0 +1,15 @@
+body {
+    background-image: url(" https://t3.ftcdn.net/jpg/04/99/00/16/360_F_499001665_e6HqHSLEblw7tTkWsLRN8JNMgJLLKKFq.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5px;
+    border-radius: 23px;
+  }
+  .final{
+    cursor: pointer;
+  }
